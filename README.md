@@ -1,7 +1,13 @@
-### Hi there 👋
+<h1>Hi, I'm Marlon! <br/><a href="https://github.com/mmiller2001">Software Developer</a>, <a href="https://www.linkedin.com/in/marlon-e-miller/">Student at Abilene Christian University</a></h1>
+
+<h2>👨‍💻 Software Development Projects:</h2>
+
+- <b>Mobile Application Developments: (Java, Android Studio, Google Firebase)</b>
+  - [Frater Sodalis App](https://github.com/mmiller2001/Frater_Sodalis) 
+  - [Triumph](https://github.com/mmiller2001/Triumphs)
 
 <!--
-**mmiller2001/mmiller2001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
